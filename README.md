@@ -1,7 +1,7 @@
 ## MIT 6.824 Distributed Systems
- 
+
 6.824学习资料
- 
+
 ## 课程主页
 
 http://nil.csail.mit.edu/6.824/2017/index.html
@@ -11,8 +11,10 @@ http://nil.csail.mit.edu/6.824/2017/index.html
 https://www.youtube.com/playlist?list=PLkcQbKbegkMqiWf7nF8apfMRL4P4sw8UL
 
 ## Lectures
- 
-x
+
+[LEC 1: Introduction](LEC_1/README.md)
+[LEC 2: RPC and Threads, Crawler, K/V](LEC_2/README.md)
+
 
 ## Lab
 
@@ -20,5 +22,5 @@ x
 
 
 ## 参考文献
- 
+
 x
