@@ -12,12 +12,10 @@ https://www.youtube.com/playlist?list=PLkcQbKbegkMqiWf7nF8apfMRL4P4sw8UL
 
 ## Lectures
 
+| 课程笔记                                     |
+| :--------------------------------------- |
 | [LEC 1: Introduction](LEC_1/README.md)   |
-| ---------------------------------------- |
 | [LEC 2: RPC and Threads, Crawler, K/V](LEC_2/README.md) |
-|                                          |
-|                                          |
-|                                          |
 
 
 
